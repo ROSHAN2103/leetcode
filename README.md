@@ -33,6 +33,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ROSHAN2103/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ROSHAN2103/leetcode/tree/master/0014-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,4 +46,8 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ROSHAN2103/leetcode/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ROSHAN2103/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
