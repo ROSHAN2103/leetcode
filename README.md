@@ -20,6 +20,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | ------- |
 | [0002-add-two-numbers](https://github.com/ROSHAN2103/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ROSHAN2103/leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ROSHAN2103/leetcode/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
