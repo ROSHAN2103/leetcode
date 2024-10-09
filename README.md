@@ -24,6 +24,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0007-reverse-integer](https://github.com/ROSHAN2103/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ROSHAN2103/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ROSHAN2103/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/ROSHAN2103/leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -36,4 +37,12 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ROSHAN2103/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ROSHAN2103/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
