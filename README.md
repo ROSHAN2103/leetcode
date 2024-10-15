@@ -26,10 +26,12 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0009-palindrome-number](https://github.com/ROSHAN2103/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ROSHAN2103/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ROSHAN2103/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/ROSHAN2103/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ROSHAN2103/leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/ROSHAN2103/leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -52,4 +54,8 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ROSHAN2103/leetcode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ROSHAN2103/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
