@@ -8,6 +8,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | ------- |
 | [0001-two-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/ROSHAN2103/leetcode/tree/master/0035-search-insert-position) |
 | [2350-find-closest-number-to-zero](https://github.com/ROSHAN2103/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [3429-special-array-i](https://github.com/ROSHAN2103/leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -72,4 +73,8 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ROSHAN2103/leetcode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ROSHAN2103/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
