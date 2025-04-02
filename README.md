@@ -43,12 +43,14 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0020-valid-parentheses](https://github.com/ROSHAN2103/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ROSHAN2103/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ROSHAN2103/leetcode/tree/master/0058-length-of-last-word) |
+| [1894-merge-strings-alternately](https://github.com/ROSHAN2103/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ROSHAN2103/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ROSHAN2103/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1894-merge-strings-alternately](https://github.com/ROSHAN2103/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
