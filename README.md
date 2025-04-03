@@ -9,6 +9,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0001-two-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ROSHAN2103/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/ROSHAN2103/leetcode/tree/master/0066-plus-one) |
 | [2350-find-closest-number-to-zero](https://github.com/ROSHAN2103/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [3429-special-array-i](https://github.com/ROSHAN2103/leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -29,6 +30,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0007-reverse-integer](https://github.com/ROSHAN2103/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ROSHAN2103/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ROSHAN2103/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/ROSHAN2103/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ROSHAN2103/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ROSHAN2103/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
