@@ -10,6 +10,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ROSHAN2103/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ROSHAN2103/leetcode/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2350-find-closest-number-to-zero](https://github.com/ROSHAN2103/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [3429-special-array-i](https://github.com/ROSHAN2103/leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -83,4 +84,20 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ROSHAN2103/leetcode/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
