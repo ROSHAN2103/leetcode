@@ -91,6 +91,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -99,5 +100,14 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
