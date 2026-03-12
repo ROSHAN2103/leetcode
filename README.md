@@ -12,6 +12,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0066-plus-one](https://github.com/ROSHAN2103/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/ROSHAN2103/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ROSHAN2103/leetcode/tree/master/0169-majority-element) |
 | [2350-find-closest-number-to-zero](https://github.com/ROSHAN2103/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/ROSHAN2103/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -78,6 +79,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ROSHAN2103/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ROSHAN2103/leetcode/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
