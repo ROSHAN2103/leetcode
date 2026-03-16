@@ -7,6 +7,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ROSHAN2103/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ROSHAN2103/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ROSHAN2103/leetcode/tree/master/0053-maximum-subarray) |
@@ -63,6 +64,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ROSHAN2103/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ROSHAN2103/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ROSHAN2103/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -140,4 +142,8 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/ROSHAN2103/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ROSHAN2103/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
