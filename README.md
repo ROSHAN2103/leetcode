@@ -9,6 +9,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0001-two-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ROSHAN2103/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ROSHAN2103/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ROSHAN2103/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ROSHAN2103/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ROSHAN2103/leetcode/tree/master/0053-maximum-subarray) |
@@ -68,6 +69,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | ------- |
 | [0011-container-with-most-water](https://github.com/ROSHAN2103/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ROSHAN2103/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ROSHAN2103/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ROSHAN2103/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ROSHAN2103/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -137,6 +139,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ROSHAN2103/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ROSHAN2103/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ROSHAN2103/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ROSHAN2103/leetcode/tree/master/0169-majority-element) |
