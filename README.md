@@ -22,6 +22,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ROSHAN2103/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ROSHAN2103/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ROSHAN2103/leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ROSHAN2103/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/ROSHAN2103/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ROSHAN2103/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2350-find-closest-number-to-zero](https://github.com/ROSHAN2103/leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -171,5 +172,6 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ROSHAN2103/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ROSHAN2103/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
