@@ -14,6 +14,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0031-next-permutation](https://github.com/ROSHAN2103/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/ROSHAN2103/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ROSHAN2103/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ROSHAN2103/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ROSHAN2103/leetcode/tree/master/0075-sort-colors) |
@@ -163,6 +164,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/ROSHAN2103/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
@@ -174,4 +176,8 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ROSHAN2103/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ROSHAN2103/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
