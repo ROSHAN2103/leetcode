@@ -17,6 +17,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0054-spiral-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ROSHAN2103/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ROSHAN2103/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ROSHAN2103/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ROSHAN2103/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0088-merge-sorted-array) |
@@ -35,6 +36,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | ------- |
 | [0001-two-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ROSHAN2103/leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/ROSHAN2103/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ROSHAN2103/leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/ROSHAN2103/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/ROSHAN2103/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -167,6 +169,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ROSHAN2103/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/ROSHAN2103/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
