@@ -20,6 +20,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0073-set-matrix-zeroes](https://github.com/ROSHAN2103/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ROSHAN2103/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ROSHAN2103/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +75,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0020-valid-parentheses](https://github.com/ROSHAN2103/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ROSHAN2103/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ROSHAN2103/leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
 | [1894-merge-strings-alternately](https://github.com/ROSHAN2103/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
@@ -147,6 +149,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
@@ -171,6 +174,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0054-spiral-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ROSHAN2103/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/ROSHAN2103/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -185,4 +189,8 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
