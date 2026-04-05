@@ -85,6 +85,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0058-length-of-last-word](https://github.com/ROSHAN2103/leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
 | [1894-merge-strings-alternately](https://github.com/ROSHAN2103/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ROSHAN2103/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +132,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0020-valid-parentheses](https://github.com/ROSHAN2103/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ROSHAN2103/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ROSHAN2103/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ROSHAN2103/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ROSHAN2103/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
 | ------- |
