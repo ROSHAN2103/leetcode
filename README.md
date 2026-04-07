@@ -45,6 +45,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0013-roman-to-integer](https://github.com/ROSHAN2103/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ROSHAN2103/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ROSHAN2103/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ROSHAN2103/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ROSHAN2103/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/ROSHAN2103/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
@@ -85,6 +86,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0058-length-of-last-word](https://github.com/ROSHAN2103/leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ROSHAN2103/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ROSHAN2103/leetcode/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/ROSHAN2103/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ROSHAN2103/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
@@ -184,6 +186,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0075-sort-colors](https://github.com/ROSHAN2103/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ROSHAN2103/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ROSHAN2103/leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
