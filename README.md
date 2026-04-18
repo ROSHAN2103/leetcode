@@ -13,6 +13,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0018-4sum](https://github.com/ROSHAN2103/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ROSHAN2103/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ROSHAN2103/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ROSHAN2103/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ROSHAN2103/leetcode/tree/master/0049-group-anagrams) |
@@ -155,6 +156,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ROSHAN2103/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ROSHAN2103/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0074-search-a-2d-matrix) |
