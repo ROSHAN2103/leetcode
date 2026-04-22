@@ -73,6 +73,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0013-roman-to-integer](https://github.com/ROSHAN2103/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ROSHAN2103/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ROSHAN2103/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ROSHAN2103/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ROSHAN2103/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ROSHAN2103/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ROSHAN2103/leetcode/tree/master/0231-power-of-two) |
@@ -94,6 +95,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ROSHAN2103/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ROSHAN2103/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ROSHAN2103/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ROSHAN2103/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ROSHAN2103/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ROSHAN2103/leetcode/tree/master/0125-valid-palindrome) |
@@ -140,6 +142,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ROSHAN2103/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ROSHAN2103/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ROSHAN2103/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ROSHAN2103/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -236,6 +239,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ROSHAN2103/leetcode/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ROSHAN2103/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
