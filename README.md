@@ -104,6 +104,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0242-valid-anagram](https://github.com/ROSHAN2103/leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/ROSHAN2103/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ROSHAN2103/leetcode/tree/master/0567-permutation-in-string) |
+| [1392-longest-happy-prefix](https://github.com/ROSHAN2103/leetcode/tree/master/1392-longest-happy-prefix) |
 | [1894-merge-strings-alternately](https://github.com/ROSHAN2103/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ROSHAN2103/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
@@ -151,6 +152,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ROSHAN2103/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/ROSHAN2103/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -287,4 +289,12 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ROSHAN2103/leetcode/tree/master/0493-reverse-pairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ROSHAN2103/leetcode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ROSHAN2103/leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
