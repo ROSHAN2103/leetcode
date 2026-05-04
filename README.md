@@ -17,6 +17,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0033-search-in-rotated-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ROSHAN2103/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ROSHAN2103/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ROSHAN2103/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ROSHAN2103/leetcode/tree/master/0053-maximum-subarray) |
@@ -253,6 +254,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
