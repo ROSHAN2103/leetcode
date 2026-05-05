@@ -103,6 +103,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0076-minimum-window-substring](https://github.com/ROSHAN2103/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ROSHAN2103/leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/ROSHAN2103/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ROSHAN2103/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ROSHAN2103/leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/ROSHAN2103/leetcode/tree/master/0443-string-compression) |
@@ -136,6 +137,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0053-maximum-subarray](https://github.com/ROSHAN2103/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ROSHAN2103/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ROSHAN2103/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/ROSHAN2103/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ROSHAN2103/leetcode/tree/master/0198-house-robber) |
 ## Memoization
 |  |
@@ -256,6 +258,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0039-combination-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/ROSHAN2103/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
