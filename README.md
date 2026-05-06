@@ -16,6 +16,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0031-next-permutation](https://github.com/ROSHAN2103/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ROSHAN2103/leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/ROSHAN2103/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ROSHAN2103/leetcode/tree/master/0042-trapping-rain-water) |
@@ -53,6 +54,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0001-two-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ROSHAN2103/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ROSHAN2103/leetcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/ROSHAN2103/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ROSHAN2103/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ROSHAN2103/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ROSHAN2103/leetcode/tree/master/0076-minimum-window-substring) |
@@ -230,6 +232,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ROSHAN2103/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ROSHAN2103/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -255,6 +258,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ROSHAN2103/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
