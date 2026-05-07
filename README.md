@@ -98,6 +98,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0013-roman-to-integer](https://github.com/ROSHAN2103/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ROSHAN2103/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ROSHAN2103/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ROSHAN2103/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ROSHAN2103/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ROSHAN2103/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ROSHAN2103/leetcode/tree/master/0058-length-of-last-word) |
@@ -135,6 +136,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ROSHAN2103/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ROSHAN2103/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ROSHAN2103/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ROSHAN2103/leetcode/tree/master/0070-climbing-stairs) |
@@ -258,6 +260,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ROSHAN2103/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ROSHAN2103/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0040-combination-sum-ii) |
