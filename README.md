@@ -44,6 +44,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0540-single-element-in-a-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ROSHAN2103/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ROSHAN2103/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/ROSHAN2103/leetcode/tree/master/0912-sort-an-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ROSHAN2103/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2350-find-closest-number-to-zero](https://github.com/ROSHAN2103/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/ROSHAN2103/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -193,6 +194,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0169-majority-element](https://github.com/ROSHAN2103/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/ROSHAN2103/leetcode/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/ROSHAN2103/leetcode/tree/master/0912-sort-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -227,6 +229,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0088-merge-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ROSHAN2103/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ROSHAN2103/leetcode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/ROSHAN2103/leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -286,6 +289,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ROSHAN2103/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/ROSHAN2103/leetcode/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -302,6 +306,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ROSHAN2103/leetcode/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/ROSHAN2103/leetcode/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -314,4 +319,16 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/ROSHAN2103/leetcode/tree/master/1392-longest-happy-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ROSHAN2103/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ROSHAN2103/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ROSHAN2103/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
