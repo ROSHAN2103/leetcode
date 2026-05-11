@@ -21,6 +21,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0040-combination-sum-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ROSHAN2103/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ROSHAN2103/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ROSHAN2103/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ROSHAN2103/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ROSHAN2103/leetcode/tree/master/0056-merge-intervals) |
@@ -267,6 +268,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0037-sudoku-solver](https://github.com/ROSHAN2103/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/ROSHAN2103/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ROSHAN2103/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
