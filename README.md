@@ -51,6 +51,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [2350-find-closest-number-to-zero](https://github.com/ROSHAN2103/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2596-check-knight-tour-configuration](https://github.com/ROSHAN2103/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/ROSHAN2103/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3193-count-the-number-of-inversions](https://github.com/ROSHAN2103/leetcode/tree/master/3193-count-the-number-of-inversions) |
 | [3429-special-array-i](https://github.com/ROSHAN2103/leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ROSHAN2103/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ROSHAN2103/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ROSHAN2103/leetcode/tree/master/0198-house-robber) |
+| [3193-count-the-number-of-inversions](https://github.com/ROSHAN2103/leetcode/tree/master/3193-count-the-number-of-inversions) |
 ## Memoization
 |  |
 | ------- |
