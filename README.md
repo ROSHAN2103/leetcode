@@ -68,6 +68,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0242-valid-anagram](https://github.com/ROSHAN2103/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ROSHAN2103/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ROSHAN2103/leetcode/tree/master/0567-permutation-in-string) |
+| [0756-pyramid-transition-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/ROSHAN2103/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -120,6 +121,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0242-valid-anagram](https://github.com/ROSHAN2103/leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/ROSHAN2103/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ROSHAN2103/leetcode/tree/master/0567-permutation-in-string) |
+| [0756-pyramid-transition-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1392-longest-happy-prefix](https://github.com/ROSHAN2103/leetcode/tree/master/1392-longest-happy-prefix) |
 | [1894-merge-strings-alternately](https://github.com/ROSHAN2103/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ROSHAN2103/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -171,6 +173,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0136-single-number](https://github.com/ROSHAN2103/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ROSHAN2103/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ROSHAN2103/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0756-pyramid-transition-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## String Matching
 |  |
 | ------- |
@@ -287,6 +290,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ROSHAN2103/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0756-pyramid-transition-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Sliding Window
 |  |
 | ------- |
