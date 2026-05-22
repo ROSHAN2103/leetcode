@@ -65,6 +65,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0073-set-matrix-zeroes](https://github.com/ROSHAN2103/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ROSHAN2103/leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ROSHAN2103/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ROSHAN2103/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ROSHAN2103/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ROSHAN2103/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -79,6 +80,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0021-merge-two-sorted-lists](https://github.com/ROSHAN2103/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ROSHAN2103/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ROSHAN2103/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ROSHAN2103/leetcode/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ROSHAN2103/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ROSHAN2103/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -145,6 +147,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0088-merge-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ROSHAN2103/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ROSHAN2103/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ROSHAN2103/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/ROSHAN2103/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ROSHAN2103/leetcode/tree/master/0443-string-compression) |
