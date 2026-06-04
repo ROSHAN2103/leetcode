@@ -239,6 +239,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
@@ -249,6 +250,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
@@ -256,6 +258,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ROSHAN2103/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -263,6 +266,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
 | [2596-check-knight-tour-configuration](https://github.com/ROSHAN2103/leetcode/tree/master/2596-check-knight-tour-configuration) |
