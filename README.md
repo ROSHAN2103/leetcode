@@ -213,6 +213,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0042-trapping-rain-water](https://github.com/ROSHAN2103/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ROSHAN2103/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/ROSHAN2103/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ROSHAN2103/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ROSHAN2103/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ROSHAN2103/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -412,6 +413,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ROSHAN2103/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ROSHAN2103/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ROSHAN2103/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
