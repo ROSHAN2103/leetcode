@@ -50,6 +50,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0560-subarray-sum-equals-k](https://github.com/ROSHAN2103/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ROSHAN2103/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/ROSHAN2103/leetcode/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/ROSHAN2103/leetcode/tree/master/0994-rotting-oranges) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ROSHAN2103/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ROSHAN2103/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2350-find-closest-number-to-zero](https://github.com/ROSHAN2103/leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -287,6 +288,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0100-same-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
+| [0994-rotting-oranges](https://github.com/ROSHAN2103/leetcode/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/ROSHAN2103/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Sorting
 |  |
@@ -316,6 +318,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0074-search-a-2d-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/ROSHAN2103/leetcode/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/ROSHAN2103/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/ROSHAN2103/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
