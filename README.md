@@ -275,10 +275,12 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ROSHAN2103/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ROSHAN2103/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,6 +291,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ROSHAN2103/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -299,6 +302,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ROSHAN2103/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ROSHAN2103/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/ROSHAN2103/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -307,6 +311,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0101-symmetric-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ROSHAN2103/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/ROSHAN2103/leetcode/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/ROSHAN2103/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Sorting
