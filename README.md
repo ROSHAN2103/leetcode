@@ -31,6 +31,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0056-merge-intervals](https://github.com/ROSHAN2103/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ROSHAN2103/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ROSHAN2103/leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/ROSHAN2103/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ROSHAN2103/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ROSHAN2103/leetcode/tree/master/0075-sort-colors) |
@@ -153,6 +154,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0058-length-of-last-word](https://github.com/ROSHAN2103/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ROSHAN2103/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ROSHAN2103/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ROSHAN2103/leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/ROSHAN2103/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ROSHAN2103/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ROSHAN2103/leetcode/tree/master/0125-valid-palindrome) |
@@ -383,6 +385,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0043-multiply-strings](https://github.com/ROSHAN2103/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ROSHAN2103/leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ROSHAN2103/leetcode/tree/master/0068-text-justification) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ROSHAN2103/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ROSHAN2103/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/ROSHAN2103/leetcode/tree/master/2596-check-knight-tour-configuration) |
