@@ -290,6 +290,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ROSHAN2103/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -310,6 +311,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ROSHAN2103/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -324,6 +326,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ROSHAN2103/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0572-subtree-of-another-tree) |
