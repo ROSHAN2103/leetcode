@@ -39,6 +39,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0084-largest-rectangle-in-histogram](https://github.com/ROSHAN2103/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ROSHAN2103/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ROSHAN2103/leetcode/tree/master/0136-single-number) |
@@ -73,6 +74,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0049-group-anagrams](https://github.com/ROSHAN2103/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ROSHAN2103/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ROSHAN2103/leetcode/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/ROSHAN2103/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ROSHAN2103/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -273,6 +275,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0004-median-of-two-sorted-arrays](https://github.com/ROSHAN2103/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ROSHAN2103/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ROSHAN2103/leetcode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ROSHAN2103/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ROSHAN2103/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -285,6 +288,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0100-same-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
@@ -307,6 +311,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0100-same-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
