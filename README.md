@@ -211,6 +211,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0070-climbing-stairs](https://github.com/ROSHAN2103/leetcode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/ROSHAN2103/leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ROSHAN2103/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ROSHAN2103/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ROSHAN2103/leetcode/tree/master/0198-house-robber) |
 | [3193-count-the-number-of-inversions](https://github.com/ROSHAN2103/leetcode/tree/master/3193-count-the-number-of-inversions) |
@@ -296,6 +297,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0110-balanced-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ROSHAN2103/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ROSHAN2103/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -330,6 +332,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0110-balanced-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ROSHAN2103/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ROSHAN2103/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -352,6 +355,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0110-balanced-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ROSHAN2103/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ROSHAN2103/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
