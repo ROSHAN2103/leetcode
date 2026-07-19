@@ -214,6 +214,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0124-binary-tree-maximum-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ROSHAN2103/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ROSHAN2103/leetcode/tree/master/0198-house-robber) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ROSHAN2103/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3193-count-the-number-of-inversions](https://github.com/ROSHAN2103/leetcode/tree/master/3193-count-the-number-of-inversions) |
 ## Memoization
 |  |
@@ -233,6 +234,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0231-power-of-two](https://github.com/ROSHAN2103/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ROSHAN2103/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0756-pyramid-transition-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ROSHAN2103/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## String Matching
 |  |
 | ------- |
@@ -271,6 +273,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0493-reverse-pairs](https://github.com/ROSHAN2103/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ROSHAN2103/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ROSHAN2103/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ROSHAN2103/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ROSHAN2103/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
 |  |
@@ -310,6 +313,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ROSHAN2103/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ROSHAN2103/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ROSHAN2103/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -370,6 +374,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ROSHAN2103/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ROSHAN2103/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ROSHAN2103/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2596-check-knight-tour-configuration](https://github.com/ROSHAN2103/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -382,6 +387,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ROSHAN2103/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/ROSHAN2103/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ROSHAN2103/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2596-check-knight-tour-configuration](https://github.com/ROSHAN2103/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Sorting
 |  |
@@ -531,6 +537,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0232-implement-queue-using-stacks](https://github.com/ROSHAN2103/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ROSHAN2103/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/ROSHAN2103/leetcode/tree/master/0901-online-stock-span) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ROSHAN2103/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Data Stream
 |  |
 | ------- |
